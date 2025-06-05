@@ -1,1 +1,6 @@
-Git Demo In progress!                                                                                                                Added Sign Up Button! Added Logout Button!
+Git Demo In progress! 
+
+Added Sign Up Button! 
+Added Logout Button!
+
+<h1>About Tags!</h1>
