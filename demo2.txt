@@ -1,1 +1,1 @@
-Git Demo In progress!                                                                                                                Added Sign Up Button!
+Git Demo In progress!                                                                                                                Added Sign Up Button! Added Logout Button!
