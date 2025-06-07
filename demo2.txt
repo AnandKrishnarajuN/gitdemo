@@ -8,3 +8,5 @@ Added Logout Button!
 <Added Products metadata>
 
 <Added Payment metadata>
+
+<Added Inventory metadata>
