@@ -6,3 +6,5 @@ Added Logout Button!
 <h1>About Tags!</h1>
 
 <Added Products metadata>
+
+<Added Payment metadata>
